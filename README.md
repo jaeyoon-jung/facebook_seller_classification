@@ -24,7 +24,7 @@ Original Features:
 * nb_share
 * owner_type
 
-Meta features:
+Meta Features:
 * published_hour 
 * description_length
 * picture_label_occurences
@@ -47,7 +47,7 @@ Models are validated with K-Fold cross validation with 5 folds.
 * AdaBoost: 0.837 accuracy
 * eXtreme Gradient Boosting (XGBoost): 0.860 accuracy
 
-Although all 4 of then are very close to one another in terms of accuracy, XGBoost had the best performance, both accuracy and run-time wise. 
+Although all 4 of them are very close to one another in terms of accuracy, XGBoost had the best performance, both accuracy and run-time wise. 
 
 ## XGBoost Performance:
 
